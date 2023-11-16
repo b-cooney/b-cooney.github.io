@@ -57,12 +57,12 @@ a {
 
 .section-2 h2 {
   font-size: 1.7rem;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .section-2 p {
   font-size: 1.1rem;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
   margin: 0;
 }
 
