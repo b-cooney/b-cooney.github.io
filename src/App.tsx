@@ -3,39 +3,37 @@ import './index.css';
 function App() {
   return (
     <div className="container mx-auto px-4 py-12 max-w-2xl">
-      <h1 className="text-3xl font-mono mb-8">Renegades</h1>
+      <h1 className="text-3xl font-mono mb-8">Hi, I'm Brendan.</h1>
       
       <p className="font-mono mb-6">
-        Renegades is a cryptonative consumer software company founded in 2024.
-      </p>
-
-      <p className="font-mono mb-8">
-        We craft software that aims to make you <span className="font-bold">feel</span> something.
-      </p>
-
-      <div className="font-mono space-y-2 mb-8">
-        <p>We move fast.</p>
-        <p>We fear the midwit within us.</p>
-        <p>We embrace cultural taboos when it makes sense to.</p>
-        <p>We don't cut corners.</p>
-        <p>We have fun.</p>
-      </div>
-
-      <p className="font-mono mb-6">
-        So far, we've released <a href="#" className="text-blue-600 hover:underline">Scoop</a> - which did $2.5M in volume, $100k of revenue, and had 12k users within the first 10 days of launch.
+      I live in Boston, MA. I enjoy learning languages, music, technology, writing, traveling, geocaching and hiking with my family. I am a member of the <a href="https://abenakination.com/missisquoi-history-and-chronology/" className="text-blue-600 hover:underline">Abenaki Nation of Missisquoi</a> and lived in Shanghai, China for 10 years.      
       </p>
 
       <p className="font-mono mb-6">
-        We made a lot of mistakes building Scoop.
+      I currently work for <a href="https://www.berkshirehathaway.com/" className="text-blue-600 hover:underline">Berkshire Hathaway</a> on their Berxi platform. Previously, I worked in a number of senior operations/education technology roles at <a href="https://www.ef.edu/" className="text-blue-600 hover:underline">EF (Education First)
       </p>
 
-      <p className="font-mono mb-8">
-        And we plan to make different ones with our next release.
+      <p className="font-mono mb-6">
+      <p>Current Projects Include:</p>
+      <p><a href="https://v1.melonmath.win/" className="text-blue-600 hover:underline">1. Melon Math</a>, an AI-developed math competition for K-8 students run entirely on the <a href="https://www.base.org/">Base Chain</a>.</p>
+      <p>2. Native Futures, an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to support underserved Native American high school students in preparing for after graduation.</p>
       </p>
 
-      <a href="#" className="font-mono text-blue-600 hover:underline">Join us</a>
+      <p className="font-mono mb-6">
+      <p>Want to Connect?</p>
+      <p>
+      <ul>
+       <li>Need to reach out directly? I'm available on Signal:@bcooney.80</li>
+       <li>Connect on <a href="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
+       <li>My only <i></i>verified</i> social media is on <a href="https://bsky.app/profile/bcooney.info className="text-blue-600 hover:underline"">Bluesky</a></li>
+      </ul>
+      </p>
+    
+    
     </div>
   );
 }
+
+
 
 export default App;
