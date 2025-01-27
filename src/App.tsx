@@ -15,13 +15,15 @@ function App() {
 
       <div className="font-mono mb-6">
         <p>Current Projects Include:</p>
-        <p><a href="https://v1.melonmath.win/" className="text-blue-600 hover:underline">1. Melon Math</a>, an AI-developed math competition for K-8 students run entirely on the <a href="https://www.bas">Base</a> platform.</p>
-        <p>2. Native Futures, an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.</p>
+        <ul className="list-disc list-inside">
+          <li><a href="https://v1.melonmath.win/" className="text-blue-600 hover:underline">Melon Math</a>, an AI-developed math competition for K-8 students run entirely on the <a href="https://www.base.com">Base</a> platform.</li>
+          <li>Native Futures, an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.</li>
+        </ul>
       </div>
 
       <div className="font-mono mb-6">
         <p>Want to Connect?</p>
-        <ul>
+        <ul className="list-disc list-inside">
           <li>Need to reach out directly? I&apos;m available on Signal: @bcooney.80</li>
           <li>Connect on <a href="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
           <li>My only <i>verified</i> social media is on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
