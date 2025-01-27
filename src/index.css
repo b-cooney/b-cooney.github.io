@@ -13,3 +13,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+/* Add styles for bullet points */
+ul.list-disc {
+  list-style-type: disc;
+}
+
+ul.list-inside {
+  list-style-position: inside;
+}
