@@ -8,7 +8,6 @@ function App() {
       <p className="font-mono mb-6">
         I live in Boston, MA. I enjoy learning languages, music, technology, writing, traveling, geocaching and hiking with my family. I am a member of the <a href="https://abenakination.com/" className="text-blue-600 hover:underline">Abenaki tribe</a>.
       </p>
-
       <p className="font-mono mb-6">
         I currently work for <a href="https://www.berkshirehathaway.com/" className="text-blue-600 hover:underline">Berkshire Hathaway</a> on their Berxi platform. Previously, I worked in a number of education technology, operations and strategy roles at <a href="https://ef.edu/" className="text-blue-600 hover:underline">EF Education First</a>. In the past I served on a few boards and ran a digital transformation consultancy.
       </p
