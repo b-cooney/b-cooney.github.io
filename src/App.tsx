@@ -10,7 +10,7 @@ function App() {
       </p>
 
       <p className="font-mono mb-6">
-        I currently work for <a href="https://www.berkshirehathaway.com/" className="text-blue-600 hover:underline">Berkshire Hathaway</a> on their Berxi platform. Previously, I worked in a number of sectors.
+        I currently work for <a href="https://www.berkshirehathaway.com/" className="text-blue-600 hover:underline">Berkshire Hathaway</a> on their Berxi platform. Previously, I worked in a number of education technology, operations and strategy roles at EF Education First. I've also served on boards and run a digital transformation consultancy in the past.
       </p>
 
       <div className="font-mono mb-6">
