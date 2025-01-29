@@ -5,6 +5,13 @@
 :root {
   background-color: white;
   color: black;
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  :root {
+    font-size: 16px; /* Maintain readable size on mobile */
+  }
 }
 
 body {
@@ -12,13 +19,12 @@ body {
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
 }
 
-/* Add styles for bullet points */
-ul.list-disc {
-  list-style-type: disc;
-}
-
-ul.list-inside {
-  list-style-position: inside;
+/* Ensure minimum text size on mobile */
+@media screen and (max-width: 768px) {
+  body {
+    -webkit-text-size-adjust: 100%;
+  }
 }
