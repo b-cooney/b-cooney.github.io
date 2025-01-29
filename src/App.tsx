@@ -6,13 +6,12 @@ function App() {
       <h1 className="text-3xl font-mono mb-8">Hi, I&apos;m Brendan.</h1>
       
       <p className="font-mono mb-6">
-        I live in Boston, MA. I enjoy learning languages, music, technology, writing, traveling, geocaching and hiking with my family. I am a member of the <a href="https://abenakination.com/missisquoi-tribe">Abenaki Nation</a>.
+        I live in Boston, MA. I enjoy learning languages, music, technology, writing, traveling, geocaching and hiking with my family. I am a member of the <a href="https://abenakination.com/missisquoi-tribe" className="text-blue-600 hover:underline">>Abenaki Nation</a>.
       </p>
 
       <p className="font-mono mb-6">
-        I currently work for <a href="https://www.berkshirehathaway.com/" className="text-blue-600 hover:underline">Berkshire Hathaway</a> on their Berxi platform. Previously, I worked in a number of education technology, operations and strategy roles at EF Education First. I've also served on boards and run a digital transformation consultancy in the past.
-      </p>
-
+        I currently work for <a href="https://www.berkshirehathaway.com/" className="text-blue-600 hover:underline">Berkshire Hathaway</a> on their Berxi platform. Previously, I worked in a number of education technology, operations and strategy roles at <a href="https://ef.edu/" className="text-blue-600 hover:underline">EF Education First</a>. In the past I served on a few boards and ran a digital transformation consultancy.
+      </p
       <div className="font-mono mb-6">
         <p>Current Projects:</p>
         <ul className="list-disc list-inside">
@@ -27,7 +26,7 @@ function App() {
           <li>Need to reach out directly? I&apos;m available on Signal: @bcooney.80</li>
           <li>Connect on <a href="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
           <li>My only <i>verified</i> social media is on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
-          <li>Want to get in touch onchain/via XMTP or via PGP? Just ask.</li>
+          <li>Want to get in touch onchain/via XMTP or using PGP? Just ask.</li>
         </ul>
       </div>
     </div>
