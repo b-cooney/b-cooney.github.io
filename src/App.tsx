@@ -6,7 +6,7 @@ function App() {
       <h1 className="text-3xl font-mono mb-8">Hi, I&apos;m Brendan.</h1>
       
       <p className="font-mono mb-6">
-        I live in Boston, MA. I enjoy learning languages, music, technology, writing, traveling, geocaching and hiking with my family. I am a member of the <a href="https://abenakination.com/" className="text-blue-600 hover:underline">>Abenaki tribe</a>.
+        I live in Boston, MA. I enjoy learning languages, music, technology, writing, traveling, geocaching and hiking with my family. I am a member of the <a href="https://abenakination.com/" className="text-blue-600 hover:underline">Abenaki tribe</a>.
       </p>
 
       <p className="font-mono mb-6">
