@@ -25,7 +25,7 @@ function App() {
           <li>Need to reach out directly? I&apos;m available on Signal: @bcooney.80</li>
           <li>Connect on <a href="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
           <li>My only <i>verified</i> social media is on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
-          <li>Want to get in touch onchain/via XMTP or using PGP? Just ask.</li>
+          <li>Want to get in touch onchain? Just ask.</li>
         </ul>
       </div>
     </div>
