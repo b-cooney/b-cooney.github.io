@@ -14,7 +14,7 @@ function App() {
       <div className="font-mono mb-6">
         <p>Current Projects:</p>
         <ul className="list-disc list-inside">
-          <li>Melon Math: an AI-developed math competition for K-8 students run entirely on the <a href="https://www.base.com">Base</a> platform.</li>
+          <li>Melon Math: a math competition for K-8 students run on the <a href="https://www.base.com" className="text-blue-600 hover:underline">Base</a> platform.</li>
           <li>Native Futures: an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.</li>
         </ul>
       </div>
@@ -25,6 +25,7 @@ function App() {
           <li>Need to reach out directly? I&apos;m available on Signal: @bcooney.80</li>
           <li>Connect on <a href="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
           <li>My only <i>verified</i> social media is on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
+          <li>My Twitter account (used mostly for networking) is <a href="https://x.com/bcooney_info" className="text-blue-600 hover:underline">@bcooney_info</a></li>
         </ul>
       </div>
     </div>
