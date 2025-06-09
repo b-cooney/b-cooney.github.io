@@ -16,6 +16,7 @@ function App() {
         <ul className="list-disc list-inside">
           <li>Melon Math: a math competition for K-8 students run on the <a href="https://www.base.com" className="text-blue-600 hover:underline">Base</a> platform.</li>
           <li>Native Futures: an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.</li>
+          <li>I also publish a newsletter for project and program managers at <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a></li>
         </ul>
       </div>
 
@@ -24,8 +25,7 @@ function App() {
         <ul className="list-disc list-inside">
           <li>Need to reach out directly? I&apos;m available on Signal: @bcooney.80</li>
           <li>Connect on <a href="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
-          <li>You can also check out my project/program management newsletter <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a></li>
-          <li>I also keep a personal blog on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
+          <li>My only personal social media is on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
         </ul>
       </div>
     </div>
