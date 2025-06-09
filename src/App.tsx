@@ -23,7 +23,7 @@ function App() {
         <p>Want to Connect?</p>
         <ul className="list-disc list-inside">
           <li>Need to reach out directly? I&apos;m available on Signal: @bcooney.80</li>
-          <li>Connect on <a khref="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
+          <li>Connect on <a href="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
           <li>You can also check out my project/program management newsletter <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a></li>
           <li>I also keep a personal blog on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
         </ul>
