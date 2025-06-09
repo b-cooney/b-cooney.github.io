@@ -14,9 +14,10 @@ function App() {
       <div className="font-mono mb-6">
         <p>Active Personal Projects:</p>
         <ul className="list-disc list-inside">
-          <li>Melon Math: a math competition for K-8 students run on the <a href="https://www.base.com" className="text-blue-600 hover:underline">Base</a> platform.</li>
-          <li>Native Futures: an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.</li>
-          <li>I also publish a newsletter for project and program managers at <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a></li>
+          <li>I publish a weekly newsletter for project and program managers at <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a></li>
+          <li><i>(Active)</i> Native Futures: an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.</li>
+          <li><i>(On Hold)</i> Melon Math: a math competition for K-8 students run on the <a href="https://www.base.com" className="text-blue-600 hover:underline">Base</a> platform.</li>
+
         </ul>
       </div>
 
