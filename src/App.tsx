@@ -14,14 +14,27 @@ function App() {
       <div className="mb-6">
         <p className="font-medium">Active Personal Projects:</p>
         <ul className="list-disc list-inside">
-          <li>Move By Move: My son and I created a chess game where the LLM explains its every move to you. Great for understanding the other players mindset and building corresponding strategies.</li>
-          <li>Yenta:</li> Building a chat-based social connector for adults 30+. Designed to make friendship easier and warmer over WhatsApp.</li>
-          <li>SuperUnderwriter</li>: Based on my time in InsureTech, currently building an AI Underwriter that InsureTech companies can use plug-and-play.</li>
-          <li>I publish a weekly newsletter for project and program managers at <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a></li>
+          <li>
+            Move By Move: My son and I created a chess game where the LLM explains its every move to you. Great for understanding the other players mindset and building corresponding strategies.
+          </li>
+          <li>
+            Yenta: Building a chat-based social connector for adults 30+. Designed to make friendship easier and warmer over WhatsApp.
+          </li>
+          <li>
+            SuperUnderwriter: Based on my time in InsureTech, currently building an AI Underwriter that InsureTech companies can use plug-and-play.
+          </li>
+          <li>
+            I publish a weekly newsletter for project and program managers at <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a>
+          </li>
+        </ul>
         <p className="font-medium">Inactive or Previous Projects:</p>
         <ul className="list-disc list-inside">          
-          <li><i>(Active)</i> Native Futures: an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.</li>
-          <li><i>(On Hold)</i> Melon Math: a math competition for K-8 students run on the <a href="https://www.base.com" className="text-blue-600 hover:underline">Base</a> platform.</li>
+          <li>
+            <i>(Active)</i> Native Futures: an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.
+          </li>
+          <li>
+            <i>(On Hold)</i> Melon Math: a math competition for K-8 students run on the <a href="https://www.base.com" className="text-blue-600 hover:underline">Base</a> platform.
+          </li>
         </ul>
       </div>
 
@@ -37,4 +50,4 @@ function App() {
   );
 }
 
-export default App;
+export default
