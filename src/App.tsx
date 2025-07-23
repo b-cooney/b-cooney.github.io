@@ -11,6 +11,7 @@ function App() {
       <p className="mb-6">
         I currently work at <a href="https://www.berkshirehathaway.com/" className="text-blue-600 hover:underline">Berkshire Hathaway</a> on their Berxi platform. Previously, I worked in a number of leadership roles in technology, operations and strategy at <a href="https://ef.edu/" className="text-blue-600 hover:underline">EF Education First</a>. In the past I have also served on a few boards and ran a digital transformation consultancy.
       </p>
+
       <div className="mb-6">
         <p className="font-medium">Active Personal Projects:</p>
         <ul className="list-disc list-inside">
@@ -27,9 +28,11 @@ function App() {
             I publish a weekly newsletter for project and program managers at <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a>
           </li>
         </ul>
-        <div className="mb-6">
+      </div>
+
+      <div className="mb-6">
         <p className="font-medium">Inactive or Previous Projects:</p>
-        <ul className="list-disc list-inside">          
+        <ul className="list-disc list-inside">
           <li>
             <i>(Active)</i> Native Futures: an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.
           </li>
@@ -37,7 +40,6 @@ function App() {
             <i>(On Hold)</i> Melon Math: a math competition for K-8 students run on the <a href="https://www.base.com" className="text-blue-600 hover:underline">Base</a> platform.
           </li>
         </ul>
-        </div>
       </div>
 
       <div className="mb-6">
