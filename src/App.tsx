@@ -27,6 +27,7 @@ function App() {
             I publish a weekly newsletter for project and program managers at <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a>
           </li>
         </ul>
+        <div className="mb-6">
         <p className="font-medium">Inactive or Previous Projects:</p>
         <ul className="list-disc list-inside">          
           <li>
@@ -36,6 +37,7 @@ function App() {
             <i>(On Hold)</i> Melon Math: a math competition for K-8 students run on the <a href="https://www.base.com" className="text-blue-600 hover:underline">Base</a> platform.
           </li>
         </ul>
+        </div>
       </div>
 
       <div className="mb-6">
