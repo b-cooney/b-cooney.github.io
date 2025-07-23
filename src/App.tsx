@@ -3,7 +3,7 @@ import './index.css';
 function App() {
   return (
     <div className="container mx-auto px-4 py-12 max-w-2xl">
-      <h1 className="text-3xl font-semibold mb-8">Hi, I&apos;m Brendan.</h1>
+      <h1 className="text-3xl font-semibold mb-8">👋 Hi, I&apos;m Brendan.</h1>
 
       <p className="mb-6">
         I live outside Boston, MA. I enjoy learning languages, music, coffee, writing, traveling, geocaching and hiking with my family. I am an active member of the <a href="https://abenakination.com/" className="text-blue-600 hover:underline">Abenaki tribe</a> and focus much of my volunteer efforts there.
@@ -14,10 +14,14 @@ function App() {
       <div className="mb-6">
         <p className="font-medium">Active Personal Projects:</p>
         <ul className="list-disc list-inside">
+          <li>Move By Move: My son and I created a chess game where the LLM explains its every move to you. Great for understanding the other players mindset and building corresponding strategies.</li>
+          <li>Yenta:</li> Building a chat-based social connector for adults 30+. Designed to make friendship easier and warmer over WhatsApp.</li>
+          <li>SuperUnderwriter</li>: Based on my time in InsureTech, currently building an AI Underwriter that InsureTech companies can use plug-and-play.</li>
           <li>I publish a weekly newsletter for project and program managers at <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a></li>
+        <p className="font-medium">Inactive or Previous Projects:</p>
+        <ul className="list-disc list-inside">          
           <li><i>(Active)</i> Native Futures: an organization dedicated to leveraging emerging technologies to benefit Native American people. Our first initiative is Pathway, an AI college/career counselor designed to help Native American students.</li>
           <li><i>(On Hold)</i> Melon Math: a math competition for K-8 students run on the <a href="https://www.base.com" className="text-blue-600 hover:underline">Base</a> platform.</li>
-
         </ul>
       </div>
 
@@ -26,7 +30,7 @@ function App() {
         <ul className="list-disc list-inside">
           <li>Need to reach out directly? I&apos;m available on Signal: @bcooney.80</li>
           <li>Connect on <a href="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
-          <li>My only personal social media is on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
+          <li>My only verified social media is on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
         </ul>
       </div>
     </div>
