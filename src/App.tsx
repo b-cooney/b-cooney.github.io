@@ -19,7 +19,7 @@ function App() {
             Move By Move: My son and I created a chess game where the LLM explains its every move to you. Great for understanding the other players mindset and building corresponding strategies.
           </li>
           <li>
-            Yenta: Building a chat-based social connector for adults 30+. Designed to make friendship easier and warmer over WhatsApp.
+            Yenta: Building a voice-first social connector and network for adults 30+. Designed to make friendship easier and warmer over WhatsApp.
           </li>
           <li>
             SuperUnderwriter: Based on my time in InsureTech, currently building an AI Underwriter that InsureTech companies can use plug-and-play.
