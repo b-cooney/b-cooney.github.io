@@ -9,7 +9,7 @@ function App() {
         I live outside Boston, MA. I enjoy learning languages, music, coffee, writing, traveling, geocaching and hiking with my family. I am an active member of the <a href="https://abenakination.com/" className="text-blue-600 hover:underline">Abenaki tribe</a> and focus much of my volunteer efforts there.
       </p>
       <p className="mb-6">
-        I currently work at <a href="https://www.berkshirehathaway.com/" className="text-blue-600 hover:underline">Berkshire Hathaway</a> on their Berxi platform. Previously, I worked in a number of leadership roles in technology, operations and strategy at <a href="https://ef.edu/" className="text-blue-600 hover:underline">EF Education First</a>. In the past I have also served on a few boards and ran a digital transformation consultancy.
+        I am currently open to new opportunities after spending 2.5 years at <a href="https://www.berkshirehathaway.com/" className="text-blue-600 hover:underline">Berkshire Hathaway</a> on their Berxi platform. Previously, I worked in a number of leadership roles in technology, operations and strategy at <a href="https://ef.edu/" className="text-blue-600 hover:underline">EF Education First</a>. In the past I have also served on a few boards and ran a digital transformation consultancy.
       </p>
 
       <div className="mb-6">
