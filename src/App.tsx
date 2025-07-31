@@ -16,16 +16,13 @@ function App() {
         <p className="font-medium"><u>Active Personal Projects:</u></p>
         <ul className="list-disc list-inside">
           <li>
-            Move By Move: My son and I created a chess game where the LLM explains its every move to you. Great for understanding the other players mindset and building corresponding strategies.
-          </li>
-          <li>
             Yenta: Building a voice-first social connector and network for adults 30+. Designed to make friendship easier and warmer over WhatsApp.
           </li>
           <li>
             SuperUnderwriter: Based on my time in InsureTech, currently building an AI Underwriter that InsureTech companies can use plug-and-play.
           </li>
           <li>
-            I publish a weekly newsletter for project and program managers at <a href="https://www.projectsunpacked.com/" className="text-blue-600 hover:underline">Projects Unpacked</a>
+            Move By Move: My son and I created a chess game where the LLM explains its every move to you. Great for understanding the other players mindset and building corresponding strategies.
           </li>
         </ul>
       </div>
