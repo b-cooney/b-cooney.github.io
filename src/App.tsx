@@ -44,7 +44,7 @@ function App() {
         <ul className="list-disc list-inside">
           <li>Need to reach out directly? I&apos;m available on Signal: @bcooney.80</li>
           <li>Connect on <a href="https://www.linkedin.com/in/cooneyb" className="text-blue-600 hover:underline">LinkedIn</a></li>
-          <li>My only verified social media is on <a href="https://bsky.app/profile/bcooney.info" className="text-blue-600 hover:underline">Bluesky</a></li>
+          <li>My only verified social media is on <a href="https://x.com/bcooney_info" className="text-blue-600 hover:underline">Twitter</a></li>
         </ul>
       </div>
     </div>
